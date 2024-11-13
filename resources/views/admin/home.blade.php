@@ -37,6 +37,7 @@
                 <input type="search" name="search" placeholder="What are you searching for...">
                 <button type="submit" class="submit">Search</button>
                 <h1>example text</h1>
+                <h3>example3</h3>
               </div>
             </form>
           </div>
