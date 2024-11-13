@@ -36,7 +36,7 @@
               <div class="form-group">
                 <input type="search" name="search" placeholder="What are you searching for...">
                 <button type="submit" class="submit">Search</button>
-                <h1>example text</h1>
+                <h1>example text2</h1>
               </div>
             </form>
           </div>
